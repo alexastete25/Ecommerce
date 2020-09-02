@@ -8,7 +8,7 @@
     "forever": "NODE_PATH=./src forever index.js",
     "test": "cross-env NODE_PATH=./src mocha -w ./tests/**/*.spec.js"
   },
-  "author": "Alejandro Mendoza <alejandromendoza.dev@gmail.com>",
+  "author": "Alex Astete <alex.astete16@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
